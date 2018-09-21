@@ -1,7 +1,7 @@
 {
   "name": "asyncawait",
   "description": "async/await for node.js",
-  "version": "1.0.7",
+  "version": "1.0.7-1",
   "keywords": [
     "async/await",
     "async",
@@ -41,9 +41,9 @@
     "test": "mocha"
   },
   "dependencies": {
-    "bluebird": "^3.1.1",
-    "fibers": "^2.0.2",
-    "lodash": "^4.17.10"
+    "bluebird": "^3",
+    "fibers": "^3.0.0",
+    "lodash": "^4"
   },
   "devDependencies": {
     "async": "^1.4.2",
